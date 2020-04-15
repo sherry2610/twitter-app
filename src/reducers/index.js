@@ -1,6 +1,6 @@
 import {combineReducers} from 'redux'
 
-import todos from './todos'
+import tweets from './tweets'
 import users from './users'
 import authedUser from './authedUser'
 
